@@ -1,0 +1,79 @@
+body{
+  margin-top:10vh;
+  background-color:#eee;
+    font-family: arial black;
+}
+.dash{
+  border:1px solid grey;
+  display:flex;
+  justify-content:center;
+  flex-direction: column;
+  align-items:center;
+  padding:20px;
+  box-shadow: 0px 2px 5px 0;
+  background-color:#fff;
+  margin-right:5vw;
+}
+#profpic{
+  height:20vh;
+  width:20vw;
+  background-size: contain;
+}
+.navbar-1{
+  display:flex;
+  flex-wrap:nowrap;
+  justify-content:space-around;
+  background-color: white;
+  box-shadow: 0px 2px 5px 0;
+  background-color:#fff;
+  margin-bottom: 5vh;
+}
+.nav-tabs{
+  border-radius:0px!important;
+  padding:10px;
+}
+.hire-me{
+  border-radius: 20vh 20vh 20vh 20vh;
+  padding-left:10px;
+
+}
+.send{
+    border-radius:100%;
+    color:#564632;
+    background-color:white;
+    padding:5px;
+}
+a{
+    color: #564632;
+}
+.active{
+  background-color:#666666;
+  color:white;
+}
+.container2
+{
+  box-shadow: 0px 2px 5px 0;
+  background-color:#fff;
+  padding :20px;
+  box-sizing: border-box;
+  font-family: arial black;
+}
+.head1{
+  font-family:courier;
+}
+.contact ul li{
+    list-style:none;
+}
+ ul li span{
+  font-family:courier;
+
+}
+.container2ul li {
+ font-family:courier;
+
+}
+.contact1{
+  border:none;
+  border-bottom:1px solid grey;
+  border-radius:0px;
+}
